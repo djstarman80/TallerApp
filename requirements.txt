@@ -1,0 +1,6 @@
+PyQt6
+PyQt6-WebEngine
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2

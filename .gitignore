@@ -1,0 +1,12 @@
+# Secrets - do not commit
+DATA/client_secret.json
+DATA/config.json
+DATA/token.json
+
+# Build artifacts
+build/
+dist/
+TallerApp.exe
+TallerApp.spec
+*.pyc
+__pycache__/
